@@ -1,2 +1,2 @@
-# iOS_digitalcurrency_wallet
+# iOS CryptoCurrency Wallet
 a collection about how to make a digital currency wallet
