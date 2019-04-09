@@ -6,6 +6,16 @@ have fun!
 
 ![](https://samuel-image-hosting.oss-cn-shenzhen.aliyuncs.com/SamuelChan/20190409114438.png)
 
+```
+100+ Stars: ⭐
+ 200+ Stars: ⭐⭐
+ 500+ Stars: ⭐⭐⭐
+1000+ Stars: ⭐⭐⭐⭐
+2000+ Stars: ⭐⭐⭐⭐⭐
+
+Click ► to show more details
+```
+
 ## 工具
 
 [consenlabs/token-core-ios](https://github.com/consenlabs/token-core-ios): TokenCore is a blockchain library. TokenCore provides the relatively consistent API that allows you to manage your wallets and sign transactions in BTC, ETH and EOS chains simultaneously. In addition, TokenCore introduces the concept of 'identity', you can use the same mnemonic to manage wallets on the three chains.
@@ -158,3 +168,12 @@ wavesplatform/WavesWallet-iOS - Waves Wallet on iOS.
 <details ><summary><code>swift</code> <code>Waves</code> </summary>
 
 https://github.com/wavesplatform/WavesWallet-iOS<br>Added Jun 25, 2017<br> License: [`MIT`](https://choosealicense.com/licenses/mit/) <a href='https://camo.githubusercontent.com/b9b3b3ba079c491a15f1b34a968e261883cfb8a9/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a7a72586742305859526a4f5766466b38766b38646b512e706e67'><code>Screenshot 1</code></a><br></details>
+
+## Thanks
+
+This list was inspired by [open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps/blob/master/README.md)
+
+Everything is released under the MIT license, so these is absolutely no need to donate anything. If you would like to buy me a coffee though, I certainly won't complain. =)
+
+- Ethereum: `0xEe63d9cA6EcaA334bA0C3311b3dbD5dE0132Ba4C`
+- Bitcoin: `3FKCC95zr5MCayJv5WjHNjUi2QzUenF1xC`
