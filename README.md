@@ -4,7 +4,7 @@ A collection about how to make a safe && user-friendly cryptoCurrency wallet
 
 have fun!
 
-![](https://samuel-image-hosting.oss-cn-shenzhen.aliyuncs.com/SamuelChan/20190409114438.png)
+![](./Cryptocurrency_logos.jpg)
 
 ```
 100+ Stars: ⭐
